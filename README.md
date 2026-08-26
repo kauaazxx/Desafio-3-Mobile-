@@ -49,3 +49,10 @@ Execute o aplicativo:
 
 Bash
 flutter run
+
+# Prints
+![Print](./prints/21.png)
+![Print](./prints/22.png)
+![Print](./prints/23.png)
+![Print](./prints/24.png)
+![Print](./prints/25.png)
